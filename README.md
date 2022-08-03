@@ -4,7 +4,7 @@
 </div>
 
 ### :sunglasses: About Me
-- I'm **Junior Developer** from the region of Río Claro, Chile. :computer::chile:
+- I'm **Junior Developer** from the region of Antofagasta, Chile. :computer::chile:
 - I'm currently a programmer analyst student at <a href="https://portales.inacap.cl">Inacap university</a>.
 - I'm currently learning **Web development and English**. 
 - Love for programming and development.
