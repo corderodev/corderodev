@@ -6,9 +6,6 @@
   <a href="https://www.linkedin.com/in/daniel-cordero-mel%C3%A9ndez-528b11224/">
     <img src="https://img.shields.io/badge/LinkedIn-green?style=for-the-badge&logo=linkedin&logoColor=black" style="border: 1px solid black; box-shadow: 0 10px 20px rgb(0,0,0,.2);" alt="LinkedIn Badge">
   </a>
-  <a href="mailto:dn.lambb@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-green?style=for-the-badge&logo=Gmail&logoColor=black" style="border: 1px solid black; box-shadow: 0 10px 20px rgb(0,0,0,.2);" alt="Gmail Badge">
-  <a/>
   <a href="https://twitter.com/dnlambb">
     <img src="https://img.shields.io/badge/Twitter-green?style=for-the-badge&logo=twitter&logoColor=black" style="border: 1px solid black; box-shadow: 0 10px 20px rgb(0,0,0,.2);" alt="Twitter Badge">
   </a>
@@ -24,13 +21,13 @@
 
 ### Portfolio: [dnlambb.com](https://dnlambb.com)
 
-***
 
 ### :technologist: About Me
 I'm a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Chile.
 - :books: I'm currently a Programmer Analyst student at [Inacap](https://portales.inacap.cl) university.
 - :seedling: I also study as an autodidact in my free time.
 - :dog: I love dogs and playing volleyball. :volleyball:
+- :mailbox: How to reach me: dnlambb@writeme.com
 
 ***
   
@@ -44,6 +41,5 @@ I'm a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" title="Git" alt="Git" width="60" height="60"/>
 </div>
   
-***
 ### :fire: My Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dnlambb&theme=merko&hide_border=true&background=161B22)](https://git.io/streak-stats)
