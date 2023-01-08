@@ -3,14 +3,11 @@
 </div>
 
 <section id="badges" align="center">
-  <a href="https://www.linkedin.com/in/daniel-cordero-mel%C3%A9ndez-528b11224/">
+  <a href="https://www.linkedin.com/in/daniel-cordero-mel%C3%A9ndez/">
     <img src="https://img.shields.io/badge/LinkedIn-747cf8?style=for-the-badge&logo=linkedin&logoColor=fff" style="border: 1px solid black; box-shadow: 0 10px 20px rgb(0,0,0,.2);" alt="LinkedIn Badge">
   </a>
   <a href="https://dnlambb.com/">
     <img src="https://img.shields.io/badge/my_portfolio-747cf8?style=for-the-badge&logo=ko-fi&logoColor=fff" style="border: 1px solid black; box-shadow: 0 10px 20px rgb(0,0,0,.2);" alt="Portfolio Badge">
-  </a>
-  <a href="https://twitter.com/dnlambb">
-    <img src="https://img.shields.io/badge/Twitter-747cf8?style=for-the-badge&logo=twitter&logoColor=fff" style="border: 1px solid black; box-shadow: 0 10px 20px rgb(0,0,0,.2);" alt="Twitter Badge">
   </a>
   <div id="counterViews-Container">
     <img src="https://komarev.com/ghpvc/?username=dnlambb&style=flat-square&color=747cf8" alt="badge counter views">
