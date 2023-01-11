@@ -1,25 +1,21 @@
-<div id="gif" align="center">
-    <img width="200" style="border-radius: 100%;" src="https://cdn.dribbble.com/users/2401141/screenshots/5487982/media/9a946a4bf36643b0b9c7ece0eb478f83.gif" alt="gif coding">
-</div>
+<section align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Andika&weight=500&size=40&duration=4000&pause=1000&color=F0A500&center=true&vCenter=true&repeat=false&width=450&lines=Daniel+Cordero" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=400&size=30&duration=4000&pause=1000&color=FFF&center=true&vCenter=true&width=560&lines=Frontend+Developer;1+year+of+experience+in+personal+projects" alt="Typing SVG" /></a>
+</section>
 
 <section id="badges" align="center">
   <a href="https://www.linkedin.com/in/daniel-cordero-mel%C3%A9ndez/">
-    <img src="https://img.shields.io/badge/LinkedIn-747cf8?style=for-the-badge&logo=linkedin&logoColor=fff" style="border: 1px solid black; box-shadow: 0 10px 20px rgb(0,0,0,.2);" alt="LinkedIn Badge">
+    <img src="https://img.shields.io/badge/LinkedIn-f0a500?style=for-the-badge&logo=linkedin&logoColor=fff" style="border: 1px solid black; box-shadow: 0 10px 20px rgb(0,0,0,.2);" alt="LinkedIn Badge">
   </a>
   <a href="https://dnlambb.com/">
-    <img src="https://img.shields.io/badge/my_portfolio-747cf8?style=for-the-badge&logo=ko-fi&logoColor=fff" style="border: 1px solid black; box-shadow: 0 10px 20px rgb(0,0,0,.2);" alt="Portfolio Badge">
+    <img src="https://img.shields.io/badge/my_portfolio-f0a500?style=for-the-badge&logo=ko-fi&logoColor=fff" style="border: 1px solid black; box-shadow: 0 10px 20px rgb(0,0,0,.2);" alt="Portfolio Badge">
   </a>
   <div id="counterViews-Container">
-    <img src="https://komarev.com/ghpvc/?username=dnlambb&style=flat-square&color=747cf8" alt="badge counter views">
+    <img src="https://komarev.com/ghpvc/?username=dnlambb&style=flat-square&color=f0a500" alt="badge counter views">
   </div>
 </section>
 
-<h1 align="center">
-  <img width="30px" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="gif hello">
-  Hi there!
-</h1>
-
-<h3 style="color: #747cf8;"> 🚀 About Me </h3>
+<h3> 🚀 About Me </h3>
 
 I'm a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Chile.
 - :books: I'm currently a Programmer Analyst student at [Inacap](https://portales.inacap.cl) university.
@@ -68,10 +64,10 @@ I'm a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
     </a>
 </p>
 
-<h3 style="color: #747cf8;"> 🔥 My Stats </h3>
+<h3> 🔥 My Stats </h3>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dnlambb&show_icons=true&theme=tokyonight&hide_border=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dnlambb&show_icons=true&theme=slateorange&hide_border=true)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dnlambb&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=dnlambb&theme=slateorange&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dnlambb&theme=tokyonight&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dnlambb&theme=slateorange&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
