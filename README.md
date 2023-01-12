@@ -66,8 +66,4 @@ I'm a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 <h3> 🔥 My Stats </h3>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dnlambb&show_icons=true&theme=slateorange&hide_border=true)
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=dnlambb&theme=slateorange&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dnlambb&theme=slateorange&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
