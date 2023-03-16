@@ -1,33 +1,44 @@
 <section align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Andika&weight=500&size=40&duration=4000&pause=1000&color=F0A500&center=true&vCenter=true&repeat=false&width=450&lines=Daniel+Cordero" alt="Typing SVG" /></a>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=400&size=30&duration=4000&pause=1000&color=FFF&center=true&vCenter=true&width=560&lines=Frontend+Developer;1+year+of+experience+in+personal+projects" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Exo&weight=500&size=40&duration=4000&pause=1000&color=F0A500&center=true&vCenter=true&repeat=false&width=450&lines=Daniel+Cordero" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Exo&weight=400&size=30&duration=4000&pause=1000&color=FFF&center=true&vCenter=true&width=560&lines=Frontend+Developer;1+year+of+experience+in+personal+projects" alt="Typing SVG" /></a>
 </section>
 
 <section id="badges" align="center">
   <a href="https://www.linkedin.com/in/daniel-cordero-mel%C3%A9ndez/">
-    <img src="https://img.shields.io/badge/LinkedIn-f0a500?style=for-the-badge&logo=linkedin&logoColor=fff" style="border: 1px solid black; box-shadow: 0 10px 20px rgb(0,0,0,.2);" alt="LinkedIn Badge">
+    <img src="https://img.shields.io/badge/LinkedIn-292733?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  
+  
   <a href="https://dnlambb.com/">
-    <img src="https://img.shields.io/badge/my_portfolio-f0a500?style=for-the-badge&logo=ko-fi&logoColor=fff" style="border: 1px solid black; box-shadow: 0 10px 20px rgb(0,0,0,.2);" alt="Portfolio Badge">
+    <img src="https://img.shields.io/badge/portfolio-292733?style=for-the-badge" />    
   </a>
   
 </section>
 
 ### 🚀 About Me
 
-I'm a Frontend Developer, passionate about programming and the world of technology. My goal is to improve and learn more about scalable and impactful software development.
+Currently, my two main interests are web development and data science. My main goal is to keep improving as a developer.
 
-🎓 I'm currently studying Programming Analyst at [Inacap](https://portales.inacap.cl) university. 
+🎓 This year I'm finishing my degree as a Programmer Analyst at [Inacap](https://portales.inacap.cl) university
 
-📚 In my spare time, I like to continue learning as an autodidact.
+📚 I take advantage of my free time to keep learning in a self-taught way.
 
 🌱 My hobbies are reading and volleyball.
 
 📫 How to reach me: dnlambb@writeme.com.
 
-
 ### 💻 Tech
-[![My Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?title=Tech&lineCount=3&theme=gruvbox&hideBg=true&hideTitle=true&line1=react,react,f0a500;vue.js,vue.js,f0a500;javascript,javascript,f0a500;html5,html5,f0a500;&line2=tailwindcss,tailwind%20css,f0a500;bootstrap,bootstrap,f0a500;sass,sass,f0a500;css3,css3,f0a500;&line3=mysql,mysql,f0a500;mongodb,mongodb,f0a500;node.js,node.js,f0a500;)](https://github-readme-tech-stack.vercel.app/api/cards?title=Tech&lineCount=3&theme=gruvbox&hideBg=true&hideTitle=true&line1=react,react,f0a500;vue.js,vue.js,f0a500;javascript,javascript,f0a500;html5,html5,f0a500;&line2=tailwindcss,tailwindcss,f0a500;bootstrap,bootstrap,f0a500;sass,sass,f0a500;css3,css3,f0a500;&line3=mysql,mysql,f0a500;mongodb,mongodb,f0a500;node.js,node.js,f0a500;)
+![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![image](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![image](https://img.shields.io/badge/Astro-0C1222?style=for-the-badge&logo=astro&logoColor=FDFDFE)
+![image](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
+![image](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![image](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![image](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![image](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
 ### 🔥 My Stats
 
