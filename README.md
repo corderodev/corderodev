@@ -9,7 +9,7 @@
   </a>
   
   
-  <a href="https://dnlambb.com/">
+  <a href="https://corderodev.com/">
     <img src="https://img.shields.io/badge/portfolio-292733?style=for-the-badge" />    
   </a>
   
@@ -43,6 +43,6 @@ Currently, my two main interests are web development and data science. My main g
 
 ### 🔥 My Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=dnlambb&theme=slateorange&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=corderodev&theme=slateorange&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dnlambb&theme=slateorange&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=corderodev&theme=slateorange&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
