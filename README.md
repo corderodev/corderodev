@@ -21,11 +21,11 @@ Currently, my two main interests are web development and data science. My main g
 
 🎓 This year I'm finishing my degree as a Programmer Analyst at [Inacap](https://portales.inacap.cl) university
 
-📚 I take advantage of my free time to keep learning in a self-taught way.
+📚 I dedicate part of my free time to continue learning in a self-taught way.
 
 🌱 My hobbies are reading and volleyball.
 
-📫 How to reach me: dnlambb@writeme.com.
+📫 How to reach me: daniel@corderodev.com.
 
 ### 💻 Tech
 ![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -36,10 +36,6 @@ Currently, my two main interests are web development and data science. My main g
 ![image](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![image](https://img.shields.io/badge/Astro-0C1222?style=for-the-badge&logo=astro&logoColor=FDFDFE)
 ![image](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
-![image](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![image](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![image](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![image](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
 ### 🔥 My Stats
 
