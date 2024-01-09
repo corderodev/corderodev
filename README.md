@@ -24,7 +24,7 @@ Actualmente, mis dos grandes intereses son el desarrollo web y móvil. Mi objeti
 
 🎓 Egrese como Analista Programador en la Universidad [Inacap](https://portales.inacap.cl).
 
-📚 En mis tiempos libres me mantengo aprendiendo y actualizado de manera autodidacta.
+🧠 En mis tiempos libres me mantengo aprendiendo y actualizado de manera autodidacta.
 
 🌱 Mis hobbies son leer, jugar voleibol o videojuegos.
 
