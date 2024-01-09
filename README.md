@@ -1,33 +1,43 @@
-<section align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Exo&weight=500&size=40&duration=4000&pause=1000&color=F0A500&center=true&vCenter=true&repeat=false&width=450&lines=Daniel+Cordero" alt="Typing SVG" /></a>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Exo&weight=400&size=30&duration=4000&pause=1000&color=FFF&center=true&vCenter=true&width=560&lines=Frontend+Developer;1+year+of+experience+in+personal+projects" alt="Typing SVG" /></a>
-</section>
+<div id="user-content-toc">
+  <ul align="start">
+    <summary align="center">
+      <h1 align="start">
+        Hola, soy Daniel Cordero, <br> 
+        Desarrollador Web
+      </h1>
+      <img align="start" alt="Coding" width="120" height="90" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
+    </summary>
+  </ul>
+</div>
 
-<section id="badges" align="center">
-  <a href="https://www.linkedin.com/in/daniel-cordero-mel%C3%A9ndez/">
-    <img src="https://img.shields.io/badge/LinkedIn-292733?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  
-  
-  <a href="https://corderodev.com/">
-    <img src="https://img.shields.io/badge/portfolio-292733?style=for-the-badge" />    
-  </a>
-  
-</section>
 
-### 🚀 About Me
+<!--- snake -->
+<div align="center">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake" />
+</div>
 
-Currently, my two main interests are web development and data science. My main goal is to keep improving as a developer.
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-🎓 This year I'm finishing my degree as a Programmer Analyst at [Inacap](https://portales.inacap.cl) university
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Sobre mí**
 
-📚 I dedicate part of my free time to continue learning in a self-taught way.
+Actualmente, mis dos grandes intereses son el desarrollo web y móvil. Mi objetivo principal es obtener más experiencia y mantenerme mejorando como desarrollador.
 
-🌱 My hobbies are reading and volleyball.
+🎓 Egrese como Analista Programador en la Universidad [Inacap](https://portales.inacap.cl).
 
-📫 How to reach me: daniel@corderodev.com.
+📚 En mis tiempos libres me mantengo aprendiendo y actualizado de manera autodidacta.
 
-### 💻 Tech
+🌱 Mis hobbies son leer, jugar voleibol o videojuegos.
+
+📫 Puedes contactarme con el siguiente email: daniel@corderodev.com.
+
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anirudh-rai-072732220" height="15" width="22" /> Conectemos en Linkedin: <a href="https://www.linkedin.com/in/daniel-cordero-meléndez/">Daniel Cordero Meléndez</a>
+
+### Portafolio: <a href="https://corderodev.com">cordero.dev</a>
+
+<br>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Conocimientos</b>
+
 ![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -37,7 +47,9 @@ Currently, my two main interests are web development and data science. My main g
 ![image](https://img.shields.io/badge/Astro-0C1222?style=for-the-badge&logo=astro&logoColor=FDFDFE)
 ![image](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
 
-### 🔥 My Stats
+<br>
+
+## 🔥 Mis estadísticas
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=corderodev&theme=slateorange&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
