@@ -22,17 +22,17 @@
 
 Actualmente, mis dos grandes intereses son el desarrollo web y móvil. Mi objetivo principal es obtener más experiencia y mantenerme mejorando como desarrollador.
 
-🎓 Egrese como Analista Programador en la Universidad [Inacap](https://portales.inacap.cl).
+🎓 Egresé como Analista Programador en la Universidad [Inacap](https://portales.inacap.cl).
 
 🧠 En mis tiempos libres me mantengo aprendiendo y actualizado de manera autodidacta.
 
 🌱 Mis hobbies son leer, jugar voleibol o videojuegos.
 
-📫 Puedes contactarme con el siguiente email: daniel@corderodev.com.
+📫 Puedes contactarme con el siguiente email: daniel@corderodev.com
 
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anirudh-rai-072732220" height="15" width="22" /> Conectemos en Linkedin: <a href="https://www.linkedin.com/in/daniel-cordero-meléndez/">Daniel Cordero Meléndez</a>
 
-### Portafolio: <a href="https://corderodev.com">cordero.dev</a>
+### Portafolio: <a href="https://corderodev.com">corderodev.com</a>
 
 <br>
 
