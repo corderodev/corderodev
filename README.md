@@ -1,4 +1,4 @@
-
+![Banner with information about me](./banner.png)
 # Desarrollador Web Frontend
 
 Desarrollo **soluciones a problemáticas** mediante software, con un **stack centrado en JavaScript**. Resido en Antofagasta, Chile.
