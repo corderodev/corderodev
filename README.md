@@ -1,19 +1,19 @@
 ![Banner with information about me](./banner.png)
-# Desarrollador Web Frontend
+# Desarrollador FullStack | Next.js, NestJS, React, TypeScript
 
 Desarrollo **soluciones a problemáticas** mediante software, con un **stack centrado en JavaScript**. Resido en Antofagasta, Chile.
 
-✌️ Soy Daniel Cordero. 🎓 Egresé como Analista Programador de la Universidad Tecnológica de Chile, Inacap. 🚀 Comencé a programar en 2021 y desde entonces me he enamorado de la programación.
+👋 ¡Hola! Soy Daniel Cordero, desarrollador FullStack de Antofagasta, Chile. Me enfoco en crear soluciones eficientes y optimizar procesos a través del código. Trabajo con Next.js, NestJS, React y TypeScript, y siempre estoy aprendiendo algo nuevo para mejorar mis proyectos.
 
-🧠 Como hábito, dedico parte de mi tiempo a seguir aprendiendo de manera autodidacta, lo que me ayuda a alcanzar 🎯 mi objetivo de mejorar como programador al adquirir más experiencia y mantener el enfoque en lo que me motiva: desarrollar soluciones a problemáticas.
+🚀 Empecé a programar en 2021 y desde entonces he desarrollado intranets, automatizado flujos de trabajo y optimizado sistemas para hacerlos más rápidos y eficientes.
 
-🌱 Y como no todo es programar, en mis tiempos de ocio disfruto leer, ver series, jugar voleibol o videojuegos.
+🌱 Fuera del código, me gusta leer, ver series, jugar voleibol y videojuegos.
 
-**📫 Puedes contactarme con el siguiente email: daniel@corderodev.com**
+📬 Contáctame: daniel@corderodev.com
 
-**<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anirudh-rai-072732220" height="15" width="22" /> Conectemos en Linkedin: <a href="https://www.linkedin.com/in/daniel-cordero-meléndez/">Daniel Cordero Meléndez</a>**
+🔗 Portafolio: [corderodev.com](https://corderodev.com)
 
-**🔗 Portafolio**: <a href="https://corderodev.com">corderodev.com</a>
+💼 LinkedIn: [Daniel Cordero Meléndez (@corderodev)](https://www.linkedin.com/in/corderodev/)
 
 ## 🔥 Mis estadísticas
 
